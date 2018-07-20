@@ -1,3 +1,48 @@
 body {
+width:50;
+
+font-family: 'Merienda', cursive;
+
+font-family: 'Knewave', cursive;
+
+font-family: 'Chela One', cursive;
+
+
     background: purple;
+}
+h1{
+    font-family: 'Knewave', cursive; 
+}
+h2{
+    font-family: 'Merienda', cursive;
+}
+
+#amerie {
+float:left;
+width:30%;
+} 
+ 
+#black { 
+    color:rgb(10, 10, 10);
+} 
+ 
+#white { 
+    color: white;
+} 
+
+ #paragraph1 {
+     float: right; 
+     width: 50%
+ }
+
+
+#MAJ:hover{
+    font-size:130%;
+    line-height: 100px;
+    box-sizing:border-box;
+
+}
+#MAJ{
+    line-height: 100px;
+    box-sizing:border-box;
 }
