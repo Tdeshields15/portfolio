@@ -1,23 +1,9 @@
-Assignment: Use CSS ID selectors to style two paragraphs on your About Me page differently.
-
-Grade:  30
-
-Comment: It looks like you started to add id selectors, but didn't quite get there.  Remember the format for CSS ids is <p id="myidname">
-
-########
-
-Assignment: Add an image to your About Me page and edit the CSS so the image and paragraphs are side-by-side.
-
-Grade:  0
-
-Comment: Incomplete
-
 ########
 
 Overall Portfolio:  Does it follow proper HTML and CSS rules, including the Clean HTML Tips and other issues noted in class?
 
-Grade:  70
+Grade: 85
 
-Comment:  I would say good start, except there isn't much here yet that you created.  Partial credit for what is there.
+Comment:  You have a good start on your portfolio, with a couple of mistakes in the use of CSS.
 
 I did note a few things as TODO items in your code.   You can view them by clicking the ToDo Tree icon on the left of your VS Code window.

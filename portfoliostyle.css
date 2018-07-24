@@ -1,6 +1,6 @@
 body {
 width:50;
-
+/* TODO: You only need the 'Chela One' font here in the body select, the others won't work because of inheritance. */
 font-family: 'Merienda', cursive;
 
 font-family: 'Knewave', cursive;
