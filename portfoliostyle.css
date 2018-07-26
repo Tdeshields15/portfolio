@@ -22,10 +22,12 @@ h2 {
 
 #paragraph1 {
     float: left up;
+    font-size:25px;
     width: 50%
 }
 #paragraph2{
     float: left up;
+    font-size:25px;
     width:50%
 }
 
@@ -48,8 +50,9 @@ a {
     box-sizing: border-box;
 }
 
-@media only screen and (max-width: 300px) {
-    p {
-        font-size:65px;
+@media only screen and (max-width: 400px) {
+    #paragraph1 {
+    
+        width:auto
     }
 }
