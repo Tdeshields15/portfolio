@@ -1,48 +1,55 @@
 body {
-width:50;
-/* TODO: You only need the 'Chela One' font here in the body select, the others won't work because of inheritance. */
-font-family: 'Merienda', cursive;
-
-font-family: 'Knewave', cursive;
-
-font-family: 'Chela One', cursive;
-
-
-    background: purple;
+    width: 50;
+    /* TODO: You only need the 'Chela One' font here in the body select, the others won't work because of inheritance. */
+    font-family: 'Merienda', cursive;
+    font-family: 'Knewave', cursive;
+    font-family: 'Chela One', cursive;
+    background: rgb(224, 98, 224);
 }
-h1{
-    font-family: 'Knewave', cursive; 
+
+h1 {
+    font-family: 'Knewave', cursive;
 }
-h2{
+
+h2 {
     font-family: 'Merienda', cursive;
 }
 
 #amerie {
-float:left;
-width:30%;
-} 
- 
-#black { 
-    color:rgb(10, 10, 10);
-} 
- 
-#white { 
-    color: white;
-} 
-
- #paragraph1 {
-     float: right; 
-     width: 50%
- }
-
-
-#MAJ:hover{
-    font-size:130%;
-    line-height: 100px;
-    box-sizing:border-box;
-
+    float: left down;
+    width: 50%;
 }
-#MAJ{
+
+#paragraph1 {
+    float: left up;
+    width: 50%
+}
+#paragraph2{
+    float: left up;
+    width:50%
+}
+
+a:visited {
+    color: black;
+}
+
+a {
+    color: black;
+}
+
+.MAJ:hover {
+    font-size:100%;
     line-height: 100px;
-    box-sizing:border-box;
+    box-sizing: border-box;
+}
+
+.MAJ {
+    line-height:20;
+    box-sizing: border-box;
+}
+
+@media only screen and (max-width: 300px) {
+    p {
+        font-size:65px;
+    }
 }
