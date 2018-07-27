@@ -1,0 +1,40 @@
+Portfolio final grade: 93
+
+Comments:  When you pay attention and apply yourself,
+you can do good work.  I hope to see more of this in the final project!
+
+########
+
+Code Quality:  Does it follow proper HTML and CSS rules, including the Clean HTML Tips and other issues noted in class?
+
+Grade: 90
+(50% of overall grade)
+
+Points deducted for these items:
+ -2 - not all page titles were updated
+ -3 - google fonts not included on all pages (fonts not consistent)
+ -1 - Contact link broken on Projects page.
+ -2 - CSS property font-family is repeated/unused on the body {} selector.
+ -2 - Unused image files left in the project.
+
+########
+
+Design and Accessibility:  Does incorporate the CSS techniques covered in class and incorporate accessibility support for at least one of the areas we discussed?
+
+Grade: 96
+(25% of overall grade)
+
+Points deducted for these items:
+    -2 - Font-family declared multiple times in the body {} selector
+    -1 - :hover changes don't actually change anything
+    -1 - paragraph1 {} and paragraph2 {} selectors were identical and should have been combined.
+
+########
+
+Advanced CSS:  Does it use advanced css techniques, like animations/transitions and media queries for mobile responsiveness?
+
+Grade: 95
+(25% of overall grade)
+
+Points deducted for these items:
+  -5 points - Landscape layout changes are not included for mobile.
